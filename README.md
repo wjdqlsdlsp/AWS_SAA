@@ -4,3 +4,5 @@
 -  아마존 웹 서비스 - AWS Discovery Book (권영환)
 -  【글로벌 Best】 AWS Certified Solutions Architect Associate 시험합격! (udemy)
 -  AWS dump 548
+
+22/01/22 - 2주안에 하는걸 도전했지만, 여러가지 일이 겹쳐서 기간을 늘려야될 것 같음.
