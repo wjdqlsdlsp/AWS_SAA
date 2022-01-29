@@ -3,6 +3,7 @@
 공부한 것들
 -  아마존 웹 서비스 - AWS Discovery Book (권영환)
 -  【글로벌 Best】 AWS Certified Solutions Architect Associate 시험합격! (udemy)
+    - 2회독 진행
 -  AWS dump 548
 -  유튜브 AWS강의실
 
