@@ -5,7 +5,6 @@
 -  【글로벌 Best】 AWS Certified Solutions Architect Associate 시험합격! (udemy)
     - 2회독 진행
 -  AWS dump
--  유튜브 AWS강의실
 -  AWS 공인 솔루션스 아키텍트 – 어소시에이트 SAA-C02 연습문제
 
 22/01/22 - 2주안에 하는걸 도전했지만, 여러가지 일이 겹쳐서 기간을 늘려야될 것 같음.
