@@ -1,3 +1,6 @@
+## AWS - SAA 취득 과정
+블로그 - [AWS-SAA CO2 후기](https://wjdqlsdlsp.github.io/aws/2022/02/16/AWS-SAA%ED%9B%84%EA%B8%B0/)
+
 ## 한줄 요약
 
 용기있는 자만 도전할 수 있는 자격증시험 - 1회 응시료만 19만원을 넘었습니다.
